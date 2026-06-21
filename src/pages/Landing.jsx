@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { Calendar, CheckCircle, Zap, ArrowRight, Check, Bell, Star, TrendingUp, UserPlus, Layout, Award, Quote, HelpCircle } from 'lucide-react';
+import { Calendar, CheckCircle, Zap, ArrowRight, Check, Bell, Star, TrendingUp, UserPlus, Layout, Award, Quote, HelpCircle, User } from 'lucide-react';
 import ThemeToggle from '../components/ThemeToggle';
 import Logo from '../components/Logo';
 
